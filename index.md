@@ -5,12 +5,20 @@
 ### RStudio
 
 [Manhattan Taxi Data prediction on hourly pick-up count](/pdf/Report_R_Manhattan.pdf)
+  
 
-<img src="images/project_1/3_10_daily_pickup_counts_sm.png?raw=true"/>
-<img src="images/project_1/AutoARIMA_Fitting_Plot_on_Test_Set.png?raw=true"/>
-<img src="images/project_1/Daily_Pickup_Counts_in_March_2019.png?raw=true"/>
-<img src="images/project_1/HourlyPickupCounts_TaxiZone_Manhattan.png?raw=true"/>
-<img src="images/project_1/STARIMA_Fitting_Plot.png?raw=true"/>
+<img src="images/project_1/3_10_daily_pickup_counts_sm.png?raw=true" width="500" height="400"/>
+
+
+<div style="display: flex;">
+  <img src="images/project_1/Daily_Pickup_Counts_in_March_2019.png?raw=true" width="400" height="300"/>
+  <img src="images/project_1/HourlyPickupCounts_TaxiZone_Manhattan.png?raw=true" width="400" height="300"/>
+</div>
+
+<div style="display: flex;">
+  <img src="images/project_1/STARIMA_Fitting_Plot.png?raw=true" width="400" height="400"/>
+  <img src="images/project_1/AutoARIMA_Fitting_Plot_on_Test_Set.png?raw=true" width="400" height="400"/>
+</div>
 
 ---
 [Project 2 Title](/sample_page)
