@@ -1,11 +1,11 @@
 title: Yuri Lai # your name (or website title) here
 logo: "/images/avatar_round.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Enthusiast seeking junior role | Seeking opportunities in data analysis
+description: > # your text below (remove <br> elements if you don't need line breaks) # Seeking opportunities in data analysis
+  Data Enthusiast seeking junior role 
   <br><br>
-  Python | SQL | Machine Learning 
+  Python | SQL | RStudio | Machine Learning 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/yuri-lai">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
